@@ -10,11 +10,17 @@ To build a Convolutional Neural Network (CNN) model for classifying geospatial l
 ## 🧠 Key Skills Demonstrated
 
 - **Deep Learning** – Built and optimized a CNN model for satellite image classification.
+  
 - **Image Processing** – Used segmentation and color detection to identify crop regions.
+  
 - **Geospatial Analysis** – Interpreted satellite imagery for land-use mapping.
+  
 - **Python Programming** – Developed preprocessing, training, and testing scripts in Python.
+  
 - **TensorFlow & Keras** – Employed deep learning libraries for model development.
+  
 - **Data Handling** – Processed large-scale geospatial image datasets efficiently.
+  
 - **Problem Solving** – Tackled real-world agricultural monitoring challenges.
 
 
@@ -57,7 +63,7 @@ The model successfully classifies satellite land types such as urban, forest, an
 
 
 
-📄 **Research Publication**
+## 📄 **Research Publication**
 
 This project has been officially published as part of a research paper, highlighting its academic and real-world relevance in the field of geospatial analysis and agricultural monitoring.
 
@@ -66,7 +72,7 @@ This project has been officially published as part of a research paper, highligh
 
 
 
-📍**Contact**
+##📍**Contact**
 
 Email: ashadinesan002@gmail.com
 LinkedIn: https://www.linkedin.com/in/asha-d-59026424a
