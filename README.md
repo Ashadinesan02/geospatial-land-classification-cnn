@@ -25,21 +25,6 @@ To build a Convolutional Neural Network (CNN) model for classifying geospatial l
 
 
 
-## 📂 Project Structure
-
-├── train.py            # CNN model for training on satellite images
-├── test.py             # Loads model & performs land/crop classification
-├── requirements.txt    # Python dependencies for local use (optional)
-├── images/             # Folder with sample satellite image data
-├── model/              # Folder to store saved.h5 model files
-├── README.md           # Project documentation
-
-
-📌 **Dataset**: [UC Merced Land Use Dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html)  
-Note: Model weights (.h5) and large image files are excluded from repo.
-
-
-
 ## 🚀 How to Run (Google Colab Recommended)
 
 1. Open Google Colab
@@ -53,6 +38,10 @@ train.py, test.py, and sample images
 4. Run the files:
 %run train.py
 %run test.py
+
+
+📌 **Dataset**: [UC Merced Land Use Dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html)  
+Note: Model weights (.h5) and large image files are excluded from repo.
 
 
 
